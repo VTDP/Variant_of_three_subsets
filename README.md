@@ -1,5 +1,4 @@
-# submission_for_ctrsa
-Some programs for submission to CT-RSA2019
+
 There are programs for SIMON, SPECK, PRESENT and KATAN
 
 For SIMON
